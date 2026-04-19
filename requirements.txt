@@ -2,3 +2,4 @@ matplotlib
 pyinstaller
 babel==2.18.0
 pywin32==311
+docx-parser-converter==1.0.3
